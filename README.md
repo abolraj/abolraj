@@ -55,8 +55,8 @@
 <img height="180em" style="flex-grow:1" src="https://streak-stats.demolab.com?user=abolraj&theme=algolia&card_width=500"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" id="contact">
+<h3 align="left" id="contact">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/abolfazl-rajaee-nasab-195aa3225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-rajaee-nasab-195aa3225" height="30" width="40" style="color:red"/>
 Linkedin: Abolfazl Rajaee nasab</a>
 
