@@ -1,20 +1,22 @@
+![coder banner](./coder_banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Abolfazl</h1>
-<h3 align="center">A full-stack [high on backend] Laravel developer</h3>
+# Hi 👋, I'm Abolfazl
+## A full-stack [high on backend] Laravel developer
 
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning Full stack techs
-- 👯 I’m looking to collaborate on Science
-- 🤔 I’m looking for help with science
+- 👯 I’m looking to collaborate on technologies
+- 🤔 I’m looking for help with others
 - 💬 Ask me about Web devs
 - ⚡ Fun fact: My diverisy in web dev is funny
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abolraj&label=Profile%20views&color=0e75b6&style=flat" alt="abolraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abolraj" alt="abolraj" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abolraj&label=Profile%20views&color=0e75b6&style=flat" alt="abolraj" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abolraj&theme=algolia&margin-w=10" alt="abolraj" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://abol-web.iran.liara.run/cv](https://abol-web.iran.liara.run/cv)
 
-- 📫 How to reach me **fazlabol18@gmail.com**
+- 📫 How to reach me [bottom](#contact)
 
 - 📄 Know about my experiences [https://abol-web.iran.liara.run/cv](https://abol-web.iran.liara.run/cv)
 
@@ -54,7 +56,7 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" id="contact">
 <a href="https://linkedin.com/in/abolfazl-rajaee-nasab-195aa3225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-rajaee-nasab-195aa3225" height="30" width="40" style="color:red"/>
 Linkedin: Abolfazl Rajaee nasab</a>
 
