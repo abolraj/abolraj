@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Abolfazl</h1>
 <h3 align="center">A full-stack [high on backend] Laravel developer</h3>
 
@@ -17,24 +18,7 @@
 
 - 📄 Know about my experiences [https://abol-web.iran.liara.run/cv](https://abol-web.iran.liara.run/cv)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abolfazl-rajaee-nasab-195aa3225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-rajaee-nasab-195aa3225" height="30" width="40" style="color:red"/>
-Linkedin: Abolfazl Rajaee nasab</a>
-
-  
-<a href="mailto:fazlabol18@example.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/red" alt="email" height="30" width="40" />
-  Gmail: fazlabol18@gmail.com
-</a>
-
-
-<a href="https://t.me/abol_web" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/cyan" alt="telegram" height="30" width="40" />
-  Telegram: @abol_web
-</a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 ### Back-end Development
 
@@ -68,3 +52,17 @@ Linkedin: Abolfazl Rajaee nasab</a>
 <img height="180em" style="flex-grow:1" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abolraj&layout=compact&langs_count=8&theme=algolia"/>
 <img height="180em" style="flex-grow:1" src="https://streak-stats.demolab.com?user=abolraj&theme=algolia&card_width=500"/>
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abolfazl-rajaee-nasab-195aa3225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abolfazl-rajaee-nasab-195aa3225" height="30" width="40" style="color:red"/>
+Linkedin: Abolfazl Rajaee nasab</a>
+
+<a href="mailto:fazlabol18@example.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/red" alt="email" height="30" width="40" />
+  Gmail: fazlabol18@gmail.com
+</a>
+
+<a href="https://t.me/abol_web" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/cyan" alt="telegram" height="30" width="40" />
+  Telegram: @abol_web
+</a>
+</p>
