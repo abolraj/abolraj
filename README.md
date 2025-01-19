@@ -4,7 +4,7 @@
 
 ## A full-stack (high on backend) Laravel developer
 
-## Check out My Smart Site: [abol-web.iran.liara.run](https://abol-web.iran.liara.run/cv)
+## Check out My Smart Site: [abolfazlrajaee.ir](https://abolfazlrajaee.ir)
 
 ### About Me
 I'm an accomplished web developer specializing in Laravel.
@@ -30,8 +30,8 @@ I'm an accomplished web developer specializing in Laravel.
 </p>
 
 ### Portfolio
-- 👨‍💻 All of my projects are available at: [My Portfolio](https://abol-web.iran.liara.run/cv)
-- 📄 Learn about my experiences: [My Resume](https://abol-web.iran.liara.run/cv)
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://abolfazlrajaee.ir)
+- 📄 Learn about my experiences: [My Resume](https://abolfazlrajaee.ir)
 
 ### Languages and Tools:
 
