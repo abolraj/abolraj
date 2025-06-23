@@ -76,7 +76,7 @@ I'm an accomplished web developer specializing in Laravel.
 
 <a href="https://t.me/abol_web" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/cyan" alt="Telegram" height="30" width="40"/> Telegram: @abol_web</a>
 
-<a href="https://wa.me/+989045426387" target="blank"><img align="center" src="https://cdn.simpleicons.org/whatsapp/green" alt="WhatsApp" height="30" width="40"/> WhatsApp: +989045426387</a>
+<!--<a href="https://wa.me/+989045426387" target="blank"><img align="center" src="https://cdn.simpleicons.org/whatsapp/green" alt="WhatsApp" height="30" width="40"/> WhatsApp: +989045426387</a>-->
 
 <a href="https://tiktok.com/@abol.fazl.2004" target="blank"><img align="center" src="https://cdn.simpleicons.org/tiktok/black" alt="TikTok" height="30" width="40"/> TikTok: @abol.fazl.2004</a>
 
